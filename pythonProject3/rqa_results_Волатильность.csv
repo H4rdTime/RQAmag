@@ -1,0 +1,22 @@
+Модель;Метрика;Значение
+Logistic Regression;Точность;0.2
+Logistic Regression;Точность (weighted);0.2
+Logistic Regression;Полнота (weighted);0.2
+Logistic Regression;F1-мера (weighted);0.2
+K-Nearest Neighbors;Точность;0.4
+K-Nearest Neighbors;Точность (weighted);0.2333333333333333
+K-Nearest Neighbors;Полнота (weighted);0.4
+K-Nearest Neighbors;F1-мера (weighted);0.29333333333333333
+Decision Tree;Точность;0.4
+Decision Tree;Точность (weighted);0.3333333333333333
+Decision Tree;Полнота (weighted);0.4
+Decision Tree;F1-мера (weighted);0.36
+Random Forest;Точность;0.2
+Random Forest;Точность (weighted);0.13333333333333333
+Random Forest;Полнота (weighted);0.2
+Random Forest;F1-мера (weighted);0.16
+Naive Bayes;Точность;0.2
+Naive Bayes;Точность (weighted);0.2
+Naive Bayes;Полнота (weighted);0.2
+Naive Bayes;F1-мера (weighted);0.2
+Neural Network;MSE;0.0025951879712188724
